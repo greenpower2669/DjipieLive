@@ -1,6 +1,7 @@
 # À faire — DjipieLive
 
-- [ ] Vérifier résultat de GitHub Actions et corriger tout échec de compilation/tests.
+- [x] Compiler Kotlin et exécuter les tests unitaires sur GitHub Actions (BUILD SUCCESSFUL, 27/10/2026).
+- [ ] Vérifier l'extraction de la signature SHA-1 et l'upload de l'APK dans le workflow.
 - [ ] Obtenir un APK debug pour essai de synthèse vocale sur Android.
 - [ ] Configurer le projet Google Cloud / YouTube Data API v3 et l'écran de consentement.
 - [ ] Associer le certificat SHA-1 de l'APK au client OAuth Android.
