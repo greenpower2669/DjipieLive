@@ -1,0 +1,2 @@
+DjipieLive utilise la synthèse vocale Android et les API officielles Google/YouTube.
+Aucune clé Google, aucun secret OAuth ni journal de messages de chat n'est inclus.
